@@ -1,16 +1,34 @@
-### Hi there 👋
+## ValidMelvin
+<table style="width: 100%"> 
 
-<!--
-**ValidMelvin/ValidMelvin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<tr> 
+  <th>Name: </th>
+  <td>Melvin</td>
+</tr>
 
-Here are some ideas to get you started:
+<tr> 
+  <th>Age: </th>
+  <td>18</td>
+</tr>
+<!-------------------------> 
+<tr> 
+  <th>Hobbies/Activities: </th>
+  <td>Contributing, Making projects and Making new connections</td>
+</tr>
+<!-------------------------> 
+<tr> 
+  <th>Location: </th>
+  <td>London</td>
+</tr>
+<!-------------------------> 
+<tr> 
+  <th>About Me: </th>
+  <td>Just like every other Software engineer.</td>
+</tr>
+<!-------------------------> 
+<tr> 
+  <th>Languages: </th>
+  <td>HTML, Java, JavaScript, C++ and Python</td>
+</tr>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</table>
