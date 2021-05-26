@@ -30,5 +30,10 @@
   <th>Languages: </th>
   <td>HTML, Java, JavaScript, C++ and Python</td>
 </tr>
+<!-------------------------> 
+<tr> 
+  <th>Contact: </th>
+  <td>melvindevelopment@outlook.com and @ValidMelvin(Twitter)</td>
+</tr>
 
 </table>
