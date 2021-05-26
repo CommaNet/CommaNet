@@ -18,7 +18,7 @@
 <!-------------------------> 
 <tr> 
   <th>Location: </th>
-  <td>London</td>
+  <td>London, United Kingdom</td>
 </tr>
 <!-------------------------> 
 <tr> 
