@@ -28,7 +28,7 @@
 <!-------------------------> 
 <tr> 
   <th>Languages: </th>
-  <td>HTML, Java, JavaScript, C++ and Python</td>
+  <td>HTML, Java, JavaScript -> TypeScript, C++ and Python</td>
 </tr>
 <!-------------------------> 
 <tr> 
