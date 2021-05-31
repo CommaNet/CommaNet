@@ -23,7 +23,7 @@
 <!-------------------------> 
 <tr> 
   <th>About Me: </th>
-  <td>Just like every other Software engineer.</td>
+  <td>Just like every other Software engineer and Graphic designer.</td>
 </tr>
 <!-------------------------> 
 <tr> 
