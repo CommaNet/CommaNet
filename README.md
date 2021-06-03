@@ -33,7 +33,7 @@
 <!-------------------------> 
 <tr> 
   <th>Contact: </th>
-  <td>melvindevelopment@outlook.com and @ValidMelvin(Twitter)</td>
+  <td>melvindevelopment@outlook.com and @C0mmaNet(Twitter)</td>
 </tr>
 
 </table>
