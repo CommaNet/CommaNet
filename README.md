@@ -7,7 +7,7 @@
 
 - Hobbies/Activities | Contributing, Making projects and Making new connections
 
-- Location | London, United Kingdom
+- Location | 51.5074° N, 0.1278° W
 
 - About Me | Just like every other Software engineer and Graphic designer.
   
