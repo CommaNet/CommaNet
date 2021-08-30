@@ -26,13 +26,13 @@
 
 - Age | 18
 
-- Hobbies/Activities | Contributing, Making projects and Making new connections
+- Hobbies/Activities | Contributing, Working on projects and Making new connections
 
 - Location | 51.5074° N, 0.1278° W
 
 - About Me | Just like every other Software engineer and Graphic designer.
   
-- Languages | JavaScript -> TypeScript and C++
+- Languages | JavaScript -> TypeScript, CPP/C++, Rust and Crystal
 
 - Contact | melvindevelopment@outlook.com and @C0mmaNet(Twitter)
  
