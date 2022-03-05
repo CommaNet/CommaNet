@@ -28,12 +28,12 @@
 
 - Hobbies/Activities | Contributing, Working on projects and Making new connections
 
-- Location | 51.5074° N, 0.1278° W
+- Location | Metaverse
 
 - About Me | Just like every other Software engineer and Graphic designer.
   
 - Languages | JavaScript -> TypeScript, CPP/C++, Rust and Crystal
 
-- Contact | melvindevelopment@outlook.com and @C0mmaNet(Twitter)
+- Contact | melvindevelopment@outlook.com and @commanetL (Twitter)
  
  
