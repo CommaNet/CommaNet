@@ -22,16 +22,13 @@
     <img height="28" width="28" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/windows.svg" />
 </p>
  
-- Name | Melvin
-
-- Hobbies/Activities | Contributing, Working on projects and Making new connections
-
-- Location | Metaverse
-
-- About Me | Just like every other Software engineer and Graphic designer.
-  
-- Languages | JavaScript -> TypeScript, CPP/C++, Rust and Crystal
-
-- Contact | melvindevelopment@outlook.com and @commanetL (Twitter)
- 
- 
+<p align="center">
+    <strong>Programming languages that I master</strong>
+   <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> 
+   <img alt="C++" src="https://shields.io/badge/c++-%23000000.svg?&style=for-the-badge&logo=cplusplus&logoColor=9cf"/>
+   <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23000000.svg?&style=for-the-badge&logo=typescript&logoColor=blue"/>
+</p>
+<p align="center">
+   <img src="https://github-readme-stats.vercel.app/api?username=commanet&show_icons=true&theme=prussian"/>
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=commanet&theme=city-lights"/>
+</p>
