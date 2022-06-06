@@ -23,8 +23,10 @@
 </p>
  
 <p align="center">
-    <strong>Programming languages that I master</strong>
-   <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> 
+    <p align="center">
+   <strong>Programming Languages that I master</strong>
+<p align="center">
+   <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23000000.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> 
    <img alt="C++" src="https://shields.io/badge/c++-%23000000.svg?&style=for-the-badge&logo=cplusplus&logoColor=9cf"/>
    <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23000000.svg?&style=for-the-badge&logo=typescript&logoColor=blue"/>
 </p>
